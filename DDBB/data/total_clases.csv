@@ -1,0 +1,261 @@
+,Nombre,Email,Promoción,Fecha_comienzo,Campus,Proyecto,Calificación
+0,Jafet Casals,Jafet_Casals@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_HLF,Apto
+1,Jorge Manzanares,Jorge_Manzanares@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_HLF,Apto
+2,Onofre Adadia,Onofre_Adadia@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_HLF,Apto
+3,Merche Prada,Merche_Prada@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_HLF,Apto
+4,Pilar Abella,Pilar_Abella@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_HLF,Apto
+5,Leoncio Tena,Leoncio_Tena@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_HLF,Apto
+6,Odalys Torrijos,Odalys_Torrijos@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_HLF,No Apto
+7,Eduardo Caparrós,Eduardo_Caparrós@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_HLF,No Apto
+8,Ignacio Goicoechea,Ignacio_Goicoechea@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_HLF,Apto
+9,Clementina Santos,Clementina_Santos@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_HLF,Apto
+10,Daniela Falcó,Daniela_Falcó@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_HLF,Apto
+11,Abraham Vélez,Abraham_Vélez@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_HLF,Apto
+12,Maximiliano Menéndez,Maximiliano_Menéndez@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_HLF,Apto
+13,Anita Heredia,Anita_Heredia@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_HLF,Apto
+14,Eli Casas,Eli_Casas@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_HLF,Apto
+15,Jafet Casals,Jafet_Casals@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_EDA,No Apto
+16,Jorge Manzanares,Jorge_Manzanares@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_EDA,No Apto
+17,Onofre Adadia,Onofre_Adadia@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_EDA,Apto
+18,Merche Prada,Merche_Prada@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_EDA,No Apto
+19,Pilar Abella,Pilar_Abella@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_EDA,No Apto
+20,Leoncio Tena,Leoncio_Tena@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_EDA,Apto
+21,Odalys Torrijos,Odalys_Torrijos@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_EDA,Apto
+22,Eduardo Caparrós,Eduardo_Caparrós@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_EDA,Apto
+23,Ignacio Goicoechea,Ignacio_Goicoechea@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_EDA,Apto
+24,Clementina Santos,Clementina_Santos@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_EDA,No Apto
+25,Daniela Falcó,Daniela_Falcó@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_EDA,Apto
+26,Abraham Vélez,Abraham_Vélez@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_EDA,No Apto
+27,Maximiliano Menéndez,Maximiliano_Menéndez@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_EDA,No Apto
+28,Anita Heredia,Anita_Heredia@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_EDA,Apto
+29,Eli Casas,Eli_Casas@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_EDA,Apto
+30,Jafet Casals,Jafet_Casals@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_BBDD,Apto
+31,Jorge Manzanares,Jorge_Manzanares@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_BBDD,Apto
+32,Onofre Adadia,Onofre_Adadia@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_BBDD,Apto
+33,Merche Prada,Merche_Prada@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_BBDD,No Apto
+34,Pilar Abella,Pilar_Abella@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_BBDD,Apto
+35,Leoncio Tena,Leoncio_Tena@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_BBDD,Apto
+36,Odalys Torrijos,Odalys_Torrijos@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_BBDD,Apto
+37,Eduardo Caparrós,Eduardo_Caparrós@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_BBDD,Apto
+38,Ignacio Goicoechea,Ignacio_Goicoechea@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_BBDD,Apto
+39,Clementina Santos,Clementina_Santos@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_BBDD,Apto
+40,Daniela Falcó,Daniela_Falcó@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_BBDD,Apto
+41,Abraham Vélez,Abraham_Vélez@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_BBDD,No Apto
+42,Maximiliano Menéndez,Maximiliano_Menéndez@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_BBDD,Apto
+43,Anita Heredia,Anita_Heredia@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_BBDD,Apto
+44,Eli Casas,Eli_Casas@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_BBDD,Apto
+45,Jafet Casals,Jafet_Casals@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_ML,Apto
+46,Jorge Manzanares,Jorge_Manzanares@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_ML,Apto
+47,Onofre Adadia,Onofre_Adadia@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_ML,No Apto
+48,Merche Prada,Merche_Prada@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_ML,Apto
+49,Pilar Abella,Pilar_Abella@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_ML,Apto
+50,Leoncio Tena,Leoncio_Tena@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_ML,Apto
+51,Odalys Torrijos,Odalys_Torrijos@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_ML,Apto
+52,Eduardo Caparrós,Eduardo_Caparrós@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_ML,Apto
+53,Ignacio Goicoechea,Ignacio_Goicoechea@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_ML,No Apto
+54,Clementina Santos,Clementina_Santos@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_ML,Apto
+55,Daniela Falcó,Daniela_Falcó@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_ML,Apto
+56,Abraham Vélez,Abraham_Vélez@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_ML,Apto
+57,Maximiliano Menéndez,Maximiliano_Menéndez@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_ML,Apto
+58,Anita Heredia,Anita_Heredia@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_ML,Apto
+59,Eli Casas,Eli_Casas@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_ML,Apto
+60,Jafet Casals,Jafet_Casals@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Deployment,Apto
+61,Jorge Manzanares,Jorge_Manzanares@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Deployment,Apto
+62,Onofre Adadia,Onofre_Adadia@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Deployment,Apto
+63,Merche Prada,Merche_Prada@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Deployment,No Apto
+64,Pilar Abella,Pilar_Abella@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Deployment,Apto
+65,Leoncio Tena,Leoncio_Tena@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Deployment,Apto
+66,Odalys Torrijos,Odalys_Torrijos@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Deployment,Apto
+67,Eduardo Caparrós,Eduardo_Caparrós@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Deployment,Apto
+68,Ignacio Goicoechea,Ignacio_Goicoechea@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Deployment,Apto
+69,Clementina Santos,Clementina_Santos@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Deployment,Apto
+70,Daniela Falcó,Daniela_Falcó@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Deployment,Apto
+71,Abraham Vélez,Abraham_Vélez@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Deployment,Apto
+72,Maximiliano Menéndez,Maximiliano_Menéndez@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Deployment,Apto
+73,Anita Heredia,Anita_Heredia@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Deployment,Apto
+74,Eli Casas,Eli_Casas@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Deployment,Apto
+0,Guillermo Borrego,Guillermo_Borrego@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_HLF,Apto
+1,Sergio Aguirre,Sergio_Aguirre@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_HLF,Apto
+2,Carlito Carrión,Carlito_Carrión@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_HLF,Apto
+3,Haydée Figueroa,Haydée_Figueroa@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_HLF,Apto
+4,Chita Mancebo,Chita_Mancebo@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_HLF,No Apto
+5,Joaquina Asensio,Joaquina_Asensio@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_HLF,No Apto
+6,Cristian Sarabia,Cristian_Sarabia@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_HLF,Apto
+7,Isabel Ibáñez,Isabel_Ibáñez@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_HLF,No Apto
+8,Desiderio Jordá,Desiderio_Jordá@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_HLF,No Apto
+9,Rosalina Llanos,Rosalina_Llanos@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_HLF,Apto
+10,Guillermo Borrego,Guillermo_Borrego@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_EDA,No Apto
+11,Sergio Aguirre,Sergio_Aguirre@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_EDA,No Apto
+12,Carlito Carrión,Carlito_Carrión@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_EDA,No Apto
+13,Haydée Figueroa,Haydée_Figueroa@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_EDA,Apto
+14,Chita Mancebo,Chita_Mancebo@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_EDA,Apto
+15,Joaquina Asensio,Joaquina_Asensio@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_EDA,No Apto
+16,Cristian Sarabia,Cristian_Sarabia@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_EDA,Apto
+17,Isabel Ibáñez,Isabel_Ibáñez@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_EDA,Apto
+18,Desiderio Jordá,Desiderio_Jordá@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_EDA,Apto
+19,Rosalina Llanos,Rosalina_Llanos@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_EDA,Apto
+20,Guillermo Borrego,Guillermo_Borrego@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_BBDD,No Apto
+21,Sergio Aguirre,Sergio_Aguirre@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_BBDD,Apto
+22,Carlito Carrión,Carlito_Carrión@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_BBDD,Apto
+23,Haydée Figueroa,Haydée_Figueroa@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_BBDD,Apto
+24,Chita Mancebo,Chita_Mancebo@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_BBDD,No Apto
+25,Joaquina Asensio,Joaquina_Asensio@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_BBDD,Apto
+26,Cristian Sarabia,Cristian_Sarabia@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_BBDD,No Apto
+27,Isabel Ibáñez,Isabel_Ibáñez@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_BBDD,No Apto
+28,Desiderio Jordá,Desiderio_Jordá@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_BBDD,No Apto
+29,Rosalina Llanos,Rosalina_Llanos@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_BBDD,Apto
+30,Guillermo Borrego,Guillermo_Borrego@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_ML,Apto
+31,Sergio Aguirre,Sergio_Aguirre@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_ML,Apto
+32,Carlito Carrión,Carlito_Carrión@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_ML,Apto
+33,Haydée Figueroa,Haydée_Figueroa@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_ML,Apto
+34,Chita Mancebo,Chita_Mancebo@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_ML,Apto
+35,Joaquina Asensio,Joaquina_Asensio@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_ML,Apto
+36,Cristian Sarabia,Cristian_Sarabia@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_ML,Apto
+37,Isabel Ibáñez,Isabel_Ibáñez@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_ML,Apto
+38,Desiderio Jordá,Desiderio_Jordá@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_ML,No Apto
+39,Rosalina Llanos,Rosalina_Llanos@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_ML,Apto
+40,Guillermo Borrego,Guillermo_Borrego@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_Deployment,No Apto
+41,Sergio Aguirre,Sergio_Aguirre@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_Deployment,No Apto
+42,Carlito Carrión,Carlito_Carrión@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_Deployment,Apto
+43,Haydée Figueroa,Haydée_Figueroa@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_Deployment,Apto
+44,Chita Mancebo,Chita_Mancebo@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_Deployment,Apto
+45,Joaquina Asensio,Joaquina_Asensio@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_Deployment,Apto
+46,Cristian Sarabia,Cristian_Sarabia@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_Deployment,Apto
+47,Isabel Ibáñez,Isabel_Ibáñez@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_Deployment,Apto
+48,Desiderio Jordá,Desiderio_Jordá@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_Deployment,Apto
+49,Rosalina Llanos,Rosalina_Llanos@gmail.com,Febrero,12/02/2024,Madrid,Proyecto_Deployment,Apto
+0,Amor Larrañaga,Amor_Larrañaga@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_WebDev,Apto
+1,Teodoro Alberola,Teodoro_Alberola@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_WebDev,No Apto
+2,Cleto Plana,Cleto_Plana@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_WebDev,Apto
+3,Aitana Sebastián,Aitana_Sebastián@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_WebDev,Apto
+4,Dolores Valbuena,Dolores_Valbuena@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_WebDev,Apto
+5,Julie Ferrer,Julie_Ferrer@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_WebDev,No Apto
+6,Mireia Cabañas,Mireia_Cabañas@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_WebDev,No Apto
+7,Flavia Amador,Flavia_Amador@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_WebDev,Apto
+8,Albino Macias,Albino_Macias@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_WebDev,No Apto
+9,Ester Sánchez,Ester_Sánchez@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_WebDev,No Apto
+10,Luis Miguel Galvez,Luis_Miguel_Galvez@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_WebDev,No Apto
+11,Loida Arellano,Loida_Arellano@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_WebDev,Apto
+12,Heraclio Duque,Heraclio_Duque@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_WebDev,Apto
+13,Herberto Figueras,Herberto_Figueras@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_WebDev,Apto
+14,Amor Larrañaga,Amor_Larrañaga@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FrontEnd,Apto
+15,Teodoro Alberola,Teodoro_Alberola@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FrontEnd,No Apto
+16,Cleto Plana,Cleto_Plana@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FrontEnd,No Apto
+17,Aitana Sebastián,Aitana_Sebastián@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FrontEnd,No Apto
+18,Dolores Valbuena,Dolores_Valbuena@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FrontEnd,Apto
+19,Julie Ferrer,Julie_Ferrer@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FrontEnd,No Apto
+20,Mireia Cabañas,Mireia_Cabañas@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FrontEnd,Apto
+21,Flavia Amador,Flavia_Amador@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FrontEnd,Apto
+22,Albino Macias,Albino_Macias@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FrontEnd,Apto
+23,Ester Sánchez,Ester_Sánchez@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FrontEnd,Apto
+24,Luis Miguel Galvez,Luis_Miguel_Galvez@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FrontEnd,Apto
+25,Loida Arellano,Loida_Arellano@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FrontEnd,Apto
+26,Heraclio Duque,Heraclio_Duque@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FrontEnd,Apto
+27,Herberto Figueras,Herberto_Figueras@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FrontEnd,Apto
+28,Amor Larrañaga,Amor_Larrañaga@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Backend,Apto
+29,Teodoro Alberola,Teodoro_Alberola@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Backend,Apto
+30,Cleto Plana,Cleto_Plana@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Backend,Apto
+31,Aitana Sebastián,Aitana_Sebastián@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Backend,Apto
+32,Dolores Valbuena,Dolores_Valbuena@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Backend,Apto
+33,Julie Ferrer,Julie_Ferrer@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Backend,No Apto
+34,Mireia Cabañas,Mireia_Cabañas@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Backend,Apto
+35,Flavia Amador,Flavia_Amador@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Backend,No Apto
+36,Albino Macias,Albino_Macias@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Backend,Apto
+37,Ester Sánchez,Ester_Sánchez@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Backend,Apto
+38,Luis Miguel Galvez,Luis_Miguel_Galvez@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Backend,Apto
+39,Loida Arellano,Loida_Arellano@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Backend,Apto
+40,Heraclio Duque,Heraclio_Duque@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Backend,No Apto
+41,Herberto Figueras,Herberto_Figueras@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_Backend,Apto
+42,Amor Larrañaga,Amor_Larrañaga@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_React,Apto
+43,Teodoro Alberola,Teodoro_Alberola@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_React,No Apto
+44,Cleto Plana,Cleto_Plana@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_React,No Apto
+45,Aitana Sebastián,Aitana_Sebastián@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_React,No Apto
+46,Dolores Valbuena,Dolores_Valbuena@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_React,Apto
+47,Julie Ferrer,Julie_Ferrer@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_React,Apto
+48,Mireia Cabañas,Mireia_Cabañas@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_React,Apto
+49,Flavia Amador,Flavia_Amador@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_React,Apto
+50,Albino Macias,Albino_Macias@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_React,Apto
+51,Ester Sánchez,Ester_Sánchez@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_React,No Apto
+52,Luis Miguel Galvez,Luis_Miguel_Galvez@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_React,Apto
+53,Loida Arellano,Loida_Arellano@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_React,Apto
+54,Heraclio Duque,Heraclio_Duque@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_React,No Apto
+55,Herberto Figueras,Herberto_Figueras@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_React,Apto
+56,Amor Larrañaga,Amor_Larrañaga@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FullSatck,No Apto
+57,Teodoro Alberola,Teodoro_Alberola@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FullSatck,Apto
+58,Cleto Plana,Cleto_Plana@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FullSatck,Apto
+59,Aitana Sebastián,Aitana_Sebastián@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FullSatck,Apto
+60,Dolores Valbuena,Dolores_Valbuena@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FullSatck,No Apto
+61,Julie Ferrer,Julie_Ferrer@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FullSatck,No Apto
+62,Mireia Cabañas,Mireia_Cabañas@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FullSatck,Apto
+63,Flavia Amador,Flavia_Amador@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FullSatck,Apto
+64,Albino Macias,Albino_Macias@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FullSatck,Apto
+65,Ester Sánchez,Ester_Sánchez@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FullSatck,Apto
+66,Luis Miguel Galvez,Luis_Miguel_Galvez@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FullSatck,Apto
+67,Loida Arellano,Loida_Arellano@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FullSatck,Apto
+68,Heraclio Duque,Heraclio_Duque@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FullSatck,No Apto
+69,Herberto Figueras,Herberto_Figueras@gmail.com,Septiembre,18/09/2023,Madrid,Proyecto_FullSatck,Apto
+0,Teresa Laguna,Teresa_Laguna@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_WebDev,Apto
+1,Estrella Murillo,Estrella_Murillo@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_WebDev,Apto
+2,Ernesto Uriarte,Ernesto_Uriarte@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_WebDev,Apto
+3,Daniela Guitart,Daniela_Guitart@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_WebDev,Apto
+4,Timoteo Trillo,Timoteo_Trillo@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_WebDev,No Apto
+5,Ricarda Tovar,Ricarda_Tovar@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_WebDev,Apto
+6,Alejandra Vilaplana,Alejandra_Vilaplana@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_WebDev,No Apto
+7,Daniel Rosselló,Daniel_Rosselló@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_WebDev,No Apto
+8,Rita Olivares,Rita_Olivares@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_WebDev,No Apto
+9,Cleto Montes,Cleto_Montes@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_WebDev,Apto
+10,Marino Castilla,Marino_Castilla@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_WebDev,No Apto
+11,Estefanía Valcárcel,Estefanía_Valcárcel@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_WebDev,Apto
+12,Noemí Vilanova,Noemí_Vilanova@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_WebDev,Apto
+13,Teresa Laguna,Teresa_Laguna@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FrontEnd,Apto
+14,Estrella Murillo,Estrella_Murillo@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FrontEnd,Apto
+15,Ernesto Uriarte,Ernesto_Uriarte@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FrontEnd,Apto
+16,Daniela Guitart,Daniela_Guitart@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FrontEnd,No Apto
+17,Timoteo Trillo,Timoteo_Trillo@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FrontEnd,Apto
+18,Ricarda Tovar,Ricarda_Tovar@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FrontEnd,Apto
+19,Alejandra Vilaplana,Alejandra_Vilaplana@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FrontEnd,No Apto
+20,Daniel Rosselló,Daniel_Rosselló@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FrontEnd,No Apto
+21,Rita Olivares,Rita_Olivares@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FrontEnd,No Apto
+22,Cleto Montes,Cleto_Montes@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FrontEnd,Apto
+23,Marino Castilla,Marino_Castilla@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FrontEnd,No Apto
+24,Estefanía Valcárcel,Estefanía_Valcárcel@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FrontEnd,Apto
+25,Noemí Vilanova,Noemí_Vilanova@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FrontEnd,No Apto
+26,Teresa Laguna,Teresa_Laguna@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_Backend,Apto
+27,Estrella Murillo,Estrella_Murillo@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_Backend,No Apto
+28,Ernesto Uriarte,Ernesto_Uriarte@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_Backend,Apto
+29,Daniela Guitart,Daniela_Guitart@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_Backend,No Apto
+30,Timoteo Trillo,Timoteo_Trillo@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_Backend,Apto
+31,Ricarda Tovar,Ricarda_Tovar@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_Backend,Apto
+32,Alejandra Vilaplana,Alejandra_Vilaplana@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_Backend,No Apto
+33,Daniel Rosselló,Daniel_Rosselló@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_Backend,Apto
+34,Rita Olivares,Rita_Olivares@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_Backend,No Apto
+35,Cleto Montes,Cleto_Montes@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_Backend,No Apto
+36,Marino Castilla,Marino_Castilla@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_Backend,Apto
+37,Estefanía Valcárcel,Estefanía_Valcárcel@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_Backend,No Apto
+38,Noemí Vilanova,Noemí_Vilanova@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_Backend,No Apto
+39,Teresa Laguna,Teresa_Laguna@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_React,Apto
+40,Estrella Murillo,Estrella_Murillo@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_React,Apto
+41,Ernesto Uriarte,Ernesto_Uriarte@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_React,Apto
+42,Daniela Guitart,Daniela_Guitart@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_React,Apto
+43,Timoteo Trillo,Timoteo_Trillo@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_React,Apto
+44,Ricarda Tovar,Ricarda_Tovar@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_React,Apto
+45,Alejandra Vilaplana,Alejandra_Vilaplana@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_React,Apto
+46,Daniel Rosselló,Daniel_Rosselló@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_React,No Apto
+47,Rita Olivares,Rita_Olivares@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_React,Apto
+48,Cleto Montes,Cleto_Montes@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_React,Apto
+49,Marino Castilla,Marino_Castilla@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_React,No Apto
+50,Estefanía Valcárcel,Estefanía_Valcárcel@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_React,No Apto
+51,Noemí Vilanova,Noemí_Vilanova@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_React,Apto
+52,Teresa Laguna,Teresa_Laguna@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FullSatck,Apto
+53,Estrella Murillo,Estrella_Murillo@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FullSatck,Apto
+54,Ernesto Uriarte,Ernesto_Uriarte@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FullSatck,Apto
+55,Daniela Guitart,Daniela_Guitart@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FullSatck,Apto
+56,Timoteo Trillo,Timoteo_Trillo@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FullSatck,No Apto
+57,Ricarda Tovar,Ricarda_Tovar@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FullSatck,Apto
+58,Alejandra Vilaplana,Alejandra_Vilaplana@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FullSatck,Apto
+59,Daniel Rosselló,Daniel_Rosselló@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FullSatck,No Apto
+60,Rita Olivares,Rita_Olivares@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FullSatck,Apto
+61,Cleto Montes,Cleto_Montes@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FullSatck,Apto
+62,Marino Castilla,Marino_Castilla@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FullSatck,No Apto
+63,Estefanía Valcárcel,Estefanía_Valcárcel@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FullSatck,Apto
+64,Noemí Vilanova,Noemí_Vilanova@gmail.com,Febrero,12/02/2024,Valencia,Proyecto_FullSatck,Apto
