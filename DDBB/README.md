@@ -41,6 +41,6 @@ La base de datos contiene las siguientes tablas principales:
 
 ### 1. Clonar este repositorio
 ```bash
-git clone <https://github.com/IreneAP19/DDBB/blob/main/README.md>
+git clone<https://github.com/YanelisGonzalez >
 
 
