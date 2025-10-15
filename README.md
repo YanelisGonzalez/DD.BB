@@ -6,6 +6,7 @@ En este proyecto se desarrollará una base de datos relacional a partir de un co
 Los datos hacen referencia a un grupo de estudiantes y al claustro de profesores de una escuela de bootcamps.
 
 El objetivo principal es aplicar conceptos de modelado y normalización de bases de datos, así como la implementación práctica en PostgreSQL.
+
 Este proyecto permitirá adquirir experiencia en el diseño, creación y despliegue de bases de datos escalables y normalizadas.
 
 ## 🧠 Objetivos del Proyecto
