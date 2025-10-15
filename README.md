@@ -14,65 +14,65 @@ El propósito del proyecto es diseñar e implementar una base de datos relaciona
 
 Se trabajará siguiendo las buenas prácticas de diseño de bases de datos:
 
-Normalización
+1.Normalización
 
-Definición de relaciones entre entidades
+2.Definición de relaciones entre entidades
 
-Integridad referencial
+3.Integridad referencial
 
-Escalabilidad y flexibilidad del modelo
+4.Escalabilidad y flexibilidad del modelo
 
 ## Tareas Realizadas
 
 1. 🧱 Modelo Entidad-Relación (E/R)
 
-Diseñar un modelo E/R que represente la estructura de la base de datos normalizada, definiendo:
+Se diseña un modelo E/R que represente la estructura de la base de datos normalizada, definiendo:
 
-Entidades principales (Estudiantes, Profesores, Campus, Promociones, Proyectos, etc.)
+1.Entidades principales (Estudiantes, Profesores, Campus, Promociones, Proyectos, etc.)
 
-Atributos
+2.Atributos
 
-Relaciones entre entidades
+3.Relaciones entre entidades
 
 2. 🧩 Modelo Lógico de la Base de Datos
 
-A partir del modelo E/R, crear el modelo lógico, definiendo:
+A partir del modelo E/R, se crea el modelo lógico, definiendo:
 
-Tablas y campos
+1.Tablas y campos
 
-Tipos de datos adecuados
+2.Tipos de datos adecuados
 
-Claves primarias y foráneas
+3.Claves primarias y foráneas
 
-Relaciones (1:N, N:M)
+4.Relaciones (1:N, N:M)
 
 3. 🧹 Normalización de Datos
 
-Aplicar los principios de normalización (hasta 3FN) para eliminar redundancias y mejorar la integridad de los datos.
+Se aplican los principios de normalización (hasta 3FN) para eliminar redundancias y mejorar la integridad de los datos.
 
 4. 🛠️ Creación de la Base de Datos
 
-Crear la base de datos en PostgreSQL.
+1.Se crea la base de datos en PostgreSQL.
 
-Definir las queries SQL necesarias para crear las tablas.
+2.Se definen las queries SQL necesarias para crear las tablas.
 
-Insertar los datos normalizados.
+3.Se insertan los datos normalizados.
 
-Asegurar que la base de datos esté alojada en un servidor accesible desde aplicaciones externas (por ejemplo, Render).
+4.Se asegura que la base de datos esté alojada en un servidor accesible desde aplicaciones externas (Render).
 
 🚀 Requisitos de Escalabilidad
 
-El modelo de base de datos debe ser escalable, permitiendo la incorporación de nuevas dimensiones como:
+El modelo de base de datos es escalable, permitiendo la incorporación de nuevas dimensiones como:
 
-Nuevos campus (Madrid, Valencia, etc.)
+1.Nuevos campus (Madrid, Valencia, etc.)
 
-Nuevas verticales (Data Science, Full Stack, etc.)
+2.Nuevas verticales (Data Science, Full Stack, etc.)
 
-Nuevas promociones (Septiembre, Febrero, etc.)
+3.Nuevas promociones (Septiembre, Febrero, etc.)
 
-Nuevas modalidades (Online, Presencial, Híbrida)
+4.Nuevas modalidades (Online, Presencial, Híbrida)
 
-Nuevas aulas o grupos
+5.Nuevas aulas o grupos
 
 🧑‍💻 Tecnologías Utilizadas
 
