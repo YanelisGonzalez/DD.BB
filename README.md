@@ -22,9 +22,9 @@ Se trabajará siguiendo las buenas prácticas de diseño de bases de datos:
 
 4.Escalabilidad y flexibilidad del modelo
 
-## Tareas Realizadas
+## ⚙️ Tareas Realizadas
 
-1. 🧱 Modelo Entidad-Relación (E/R)
+### 🧱 Modelo Entidad-Relación (E/R)
 
 Se diseña un modelo E/R que represente la estructura de la base de datos normalizada, definiendo:
 
@@ -34,7 +34,7 @@ Se diseña un modelo E/R que represente la estructura de la base de datos normal
 
 3.Relaciones entre entidades
 
-2. 🧩 Modelo Lógico de la Base de Datos
+### 🧩 Modelo Lógico de la Base de Datos
 
 A partir del modelo E/R, se crea el modelo lógico, definiendo:
 
@@ -46,11 +46,11 @@ A partir del modelo E/R, se crea el modelo lógico, definiendo:
 
 4.Relaciones (1:N, N:M)
 
-3. 🧹 Normalización de Datos
+### 🧹 Normalización de Datos
 
 Se aplican los principios de normalización (hasta 3FN) para eliminar redundancias y mejorar la integridad de los datos.
 
-4. 🛠️ Creación de la Base de Datos
+### 🛠️ Creación de la Base de Datos
 
 1.Se crea la base de datos en PostgreSQL.
 
@@ -60,7 +60,7 @@ Se aplican los principios de normalización (hasta 3FN) para eliminar redundanci
 
 4.Se asegura que la base de datos esté alojada en un servidor accesible desde aplicaciones externas (Render).
 
-🚀 Requisitos de Escalabilidad
+### 🚀 Requisitos de Escalabilidad
 
 El modelo de base de datos es escalable, permitiendo la incorporación de nuevas dimensiones como:
 
@@ -74,7 +74,7 @@ El modelo de base de datos es escalable, permitiendo la incorporación de nuevas
 
 5.Nuevas aulas o grupos
 
-🧑‍💻 Tecnologías Utilizadas
+### 🧑‍💻 Tecnologías Utilizadas
 
 PostgreSQL 🐘
 
@@ -84,7 +84,7 @@ Render (para desplegar la base de datos)
 
 GitHub (control de versiones y entrega final)
 
-✨ Autora
+## ✨ Autora
 Yanelis González
 
 
